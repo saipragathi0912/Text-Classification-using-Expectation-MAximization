@@ -1,1 +1,1 @@
-# Text-Classification-using-Expectation-MAximization
+# Text-Classification-using-Expectation-Maximization
